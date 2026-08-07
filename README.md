@@ -33,6 +33,7 @@ The application also includes a movie analytics dashboard that visualizes rating
 
 The application provides a clean interface where users can select their favorite movie and generate recommendations.
 
+![Movie Recommendation System - Home](screenshots/home.png)
 
 
 ---
@@ -41,6 +42,7 @@ The application provides a clean interface where users can select their favorite
 
 After selecting a movie, the system displays movies with similar user-rating patterns along with their genres and similarity scores.
 
+![Movie Recommendations](screenshots/recommendations.png)
 
 
 ---
@@ -49,6 +51,8 @@ After selecting a movie, the system displays movies with similar user-rating pat
 
 The application provides visual insights into the MovieLens dataset, including rating distribution and the most-rated movies.
 
+![Movie Analytics](screenshots/analytics.png)
+![Movie Analytics Dashboard](screenshots/analytics_2.png)
 
 
 ---
