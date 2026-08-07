@@ -136,15 +136,16 @@ The recommendation system follows a collaborative filtering approach.
                Streamlit Web App
 
 ---
+
 ## 👩‍💻 Author
 
 ### Shravani Kamble
-**AI & Machine Learning Engineer | Python Developer**
+AI & Machine Learning Engineer | Python Developer
 
-I am an AI & Machine Learning graduate with hands-on experience in Python, Machine Learning, NLP, Computer Vision, Generative AI, and full-stack application development. I enjoy building practical AI-powered applications and deploying them as production-ready projects.
+- 💼 **LinkedIn:** [Shravani Kamble](https://www.linkedin.com/in/shravani-kamble-9b9345346/)
+- 🐙 **GitHub:** [Shraaavani](https://github.com/Shraaavani)
+- 📍 **Location:** Pune, Maharashtra, India
 
-**Connect with me:**
+---
 
-- 💼 LinkedIn: [Shravani Kamble](https://www.linkedin.com/in/shravani-kamble-9b9345346/)
-- 🐙 GitHub: [Shraaavani](https://github.com/Shraaavani)
-- 📍 Pune, Maharashtra, India
+⭐ If you found this project useful, consider giving it a star!
