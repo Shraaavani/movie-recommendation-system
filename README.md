@@ -135,11 +135,8 @@ The recommendation system follows a collaborative filtering approach.
                         ▼
                Streamlit Web App
 
+--------------------------
 
-
----
-
----
 
 ## 👩‍💻 Author
 
